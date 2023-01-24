@@ -1,9 +1,10 @@
 # Treinamento-Git-Desktop
-RepositÛrio criado para exercicios do MÛdulo 02 - treinamento GitHub
+Reposit√≥rio criado para exercicios do M√≥dulo 02 - treinamento GitHub
 
-O luan ser· um Ûtimo programador no futuro
+O luan ser√° um √≥timo programador no futuro
 
 Aprendendo git desktop, muito dahora
 
+Adicionando nova linha 
 
 **Desenvolvedor:** _Luan Guarnieri_
