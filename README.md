@@ -5,9 +5,4 @@ O luan será um ótimo programador no futuro
 
 Aprendendo git desktop, muito dahora
 
-Modificado README local branch B
-
-Adicionando nova linha 
-
-
 **Desenvolvedor:** _Luan Guarnieri_
