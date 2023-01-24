@@ -5,4 +5,6 @@ O luan será um ótimo programador no futuro
 
 Aprendendo git desktop, muito dahora
 
+Adicionado linha no desktop branch A
+
 **Desenvolvedor:** _Luan Guarnieri_
