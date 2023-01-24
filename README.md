@@ -7,4 +7,6 @@ Aprendendo git desktop, muito dahora
 
 Adicionado linha online branch B
 
+Adicionado linha no desktop branch A
+
 **Desenvolvedor:** _Luan Guarnieri_
