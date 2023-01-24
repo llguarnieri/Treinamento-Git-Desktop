@@ -1,11 +1,9 @@
 # Treinamento-Git-Desktop
-Este repositÃ³rio Ã© referente ao treinamento do git desktop - MÃ³dulo 02
-
-Colocando mais uma linha através do git desktop 
+Repositório criado para exercicios do Módulo 02 - treinamento GitHub
 
 O luan será um ótimo programador no futuro
 
-Aprendendo git desktop
+Aprendendo git desktop, muito dahora
 
 
 **Desenvolvedor:** _Luan Guarnieri_
